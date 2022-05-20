@@ -1,0 +1,3 @@
+C:/Users/stick/Documents/C Projects/CSC322/CacheLab/cmake-build-debug/CMakeFiles/CacheLab.dir
+C:/Users/stick/Documents/C Projects/CSC322/CacheLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stick/Documents/C Projects/CSC322/CacheLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
